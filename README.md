@@ -1,9 +1,8 @@
 
 
-# Beware of KECCAK: A Practical Fault Injection Attack Scheme Apply to All Phases of ML-KEM and ML-DSA.
+# Mind the Faulty Keccak: A Practical Fault Injection Attack Scheme Apply to All Phases of ML-KEM and ML-DSA.
 
-This is the code repository for the paper Beware of KECCAK: A Practical Fault Injection Attack Scheme Apply to All Phases of ML-KEM and ML-DSA
-
+This is the code repository for the paper "Mind the Faulty Keccak: A Practical Fault Injection Attack Scheme Apply to All Phases of ML-KEM and ML-DSA"
 This repository contains our experimental code and auxiliary attack programs, divided into five folders:
 
 1. **Fault Injection Harness**: This folder contains the code we use to drive the experimental environment, implementing highly automated fault experiment data collection. It drives devices such as DUT, ChipSHOUTER, and ChipWhisperer in the experimental environment.
